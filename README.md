@@ -2,7 +2,8 @@
 
 Welcome!
 
-![Visitor Count](https://profile-counter.glitch.me/Cathylin99/count.svg)
+You are my: ![Visitor Count](https://profile-counter.glitch.me/Cathylin99/count.svg) visitors!
+
 Here are some ideas to get you started:
 
 - 💬 研究生在读，机器学习/深度学习起步阶段，欢迎大家和我一起讨论学习
